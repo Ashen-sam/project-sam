@@ -8,6 +8,7 @@ public class Newclass {
     public void stId(){
 
         System.out.println("\n My name is: "+name+"\n"+" My age is : "+age);
+        System.out.println("ashensammmmm");
     }
 
 }
