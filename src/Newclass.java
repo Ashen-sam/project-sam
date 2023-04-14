@@ -9,6 +9,7 @@ public class Newclass {
 
         System.out.println("\n My name is: " + name + "\n" + " My age is : " + age);
         System.out.println("ashen dilranga samarasekera and i'm a going to push the code ");
+        System.out.println("ashen sam 2  and i'm a going to push and edit  the new code ");
     }
 
 }
